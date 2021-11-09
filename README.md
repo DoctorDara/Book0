@@ -1,2 +1,2 @@
-# Book0
-DIO first GIT PROJECT
+# My first GIT challenger DIO repository
+Repository create for DIO GIT PROJECT
